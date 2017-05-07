@@ -1,0 +1,30 @@
+0
+Training loss:  0.46541437219
+Dev error rate:  0.220697850275
+1
+Training loss:  0.18440562656
+Dev error rate:  0.191746786216
+2
+Training loss:  0.105187570523
+Dev error rate:  0.183104677541
+3
+Training loss:  0.0718371571717
+Dev error rate:  0.183752835692
+4
+Training loss:  0.0542705336999
+Dev error rate:  0.174570595225
+5
+Training loss:  0.0466848978929
+Dev error rate:  0.175866911526
+6
+Training loss:  0.0373240283082
+Dev error rate:  0.172950199849
+7
+Training loss:  0.0332200005068
+Dev error rate:  0.167980987361
+8
+Training loss:  0.0289089820132
+Dev error rate:  0.168413092795
+9
+Training loss:  0.0260529401346
+Dev error rate:  0.179323754996
