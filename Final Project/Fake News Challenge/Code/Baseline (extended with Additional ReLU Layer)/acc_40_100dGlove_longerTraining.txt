@@ -1,0 +1,75 @@
+0
+Training loss:  0.55242520334
+Dev error rate:  0.264287126755
+1
+Training loss:  0.293841435821
+Dev error rate:  0.246588886692
+2
+Training loss:  0.179237456351
+Dev error rate:  0.240458770022
+3
+Training loss:  0.121216455428
+Dev error rate:  0.20812734823
+4
+Training loss:  0.0899201297058
+Dev error rate:  0.19596598774
+5
+Training loss:  0.0688040952623
+Dev error rate:  0.213664227803
+6
+Training loss:  0.055977025016
+Dev error rate:  0.203282578604
+7
+Training loss:  0.0466831479727
+Dev error rate:  0.214949574847
+8
+Training loss:  0.0394424927867
+Dev error rate:  0.209610440973
+9
+Training loss:  0.0343808745082
+Dev error rate:  0.190923472414
+10
+Training loss:  0.0299850936428
+Dev error rate:  0.19804231758
+11
+Training loss:  0.0319569778514
+Dev error rate:  0.183409135851
+12
+Training loss:  0.0252162888375
+Dev error rate:  0.189440379672
+13
+Training loss:  0.0237151221991
+Dev error rate:  0.189440379672
+14
+Training loss:  0.0234118971005
+Dev error rate:  0.197547953332
+15
+Training loss:  0.0207714484713
+Dev error rate:  0.199426537473
+16
+Training loss:  0.0210975409822
+Dev error rate:  0.196756970536
+17
+Training loss:  0.017485154268
+Dev error rate:  0.196658097686
+18
+Training loss:  0.0234552137316
+Dev error rate:  0.184298991497
+19
+Training loss:  0.0140818501403
+Dev error rate:  0.18766066838
+20
+Training loss:  0.0207189575655
+Dev error rate:  0.178860984774
+21
+Training loss:  0.014380001785
+Dev error rate:  0.176586909235
+22
+Training loss:  0.0139637802333
+Dev error rate:  0.19586711489
+23
+Training loss:  0.0160927233388
+Dev error rate:  0.188352778327
+24
+Training loss:  0.0207479407729
+Dev error rate:  0.188451651177
